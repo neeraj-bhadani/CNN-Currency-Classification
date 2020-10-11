@@ -6,4 +6,6 @@ Scraped images of currencies such as INR, USD etc using FAST API. Implemented Le
 ![Image of Yaktocat](https://github.com/neeraj-bhadani/CNN-Currency-Classification-Flask-web-app/blob/main/images/clf_model.png)
 
 ## Web App Screenshot
+*Deployed in AWS Elastic Beanstalk*
 ![Image of Yakrfcat](https://github.com/neeraj-bhadani/CNN-Currency-Classification-Flask-web-app/blob/main/images/Screenshot%20(19).png)
+![Image of Yakrfcat](https://github.com/neeraj-bhadani/CNN-Currency-Classification-Flask-web-app/blob/main/images/webapp.png)
